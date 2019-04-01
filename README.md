@@ -2,7 +2,7 @@
 
 Welcome to VIP! This repo is a starting point for building your VIP Go site, including all the base folders to be built on.
 
-## Guidebooks
+## Guidebooks 
 
 We'd recommend starting with one of the following guidebooks. They include everything you need to know about launching and developing with VIP:
 
